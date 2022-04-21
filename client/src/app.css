@@ -1,0 +1,23 @@
+/*Navbar*/
+.navabr {
+  height: 50px;
+  background-color: rgba(116, 6, 92, 0.698);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+
+.listItem {
+  margin-right: 20px;
+  font-weight: 600px;
+  cursor: pointer;
+}
+
+/*End of Navbar*/
